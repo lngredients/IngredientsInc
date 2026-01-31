@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jonathan, an <a href="Link Coming">IT Professional</a>☺</h1>
+<h1>Hi, I'm Jonathan, an IT Professional
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
