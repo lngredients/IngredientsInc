@@ -8,9 +8,3 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/IngredientsInc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/IngredientsInc/Configure-VM/blob/main/README.md)
-
-<h2>🤳Connect with me:</h2> (Trying to get Linked In Account Restored)
-
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com
